@@ -11,7 +11,7 @@
 // somar os dois
 
 
-somar(10);
+somar(5);
 function somar(limite) {
 
 let multiplosDe3 = 0;
