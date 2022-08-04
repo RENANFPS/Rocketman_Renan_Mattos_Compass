@@ -15,9 +15,23 @@ export default class Calculadora {
     static div(a,b) {
         return a / b
     }
+
+    static porcent(a,b) {
+        return (a/100) * b
+    }
+
+
+    static expon(a,b) {
+        return a ** b
+    }
+
+    static raizq(a) {
+        return Math.sqrt(a)
+    }
+
+    static raizc(a) {
+        return Math.cbrt(a)
+    }
+
 }
 
-let a = prompt('Olá, qual o primeiro número?');
-let b = prompt('e qual o segundo número?');
-
-alert(resultado);
