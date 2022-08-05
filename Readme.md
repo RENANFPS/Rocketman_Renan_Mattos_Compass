@@ -13,10 +13,19 @@ O objetivo dele é servir para avaliação nos estudos da compass.uol .
 
 
 -Sistema GIT para versionamento de arquivos.
+
 -Plataforma e ferramentas GitHub.
+
 -Linguagem de programação Javascript.
--KOANS JS - Aprendizado sobre refatoração de testes automatizados.
--TDD - Test Driven Development ou Desenvolvimento Guiado por Testes
+
+-KOANS JS 
+
+- Aprendizado sobre refatoração de testes automatizados.
+
+-TDD 
+
+- Test Driven Development ou Desenvolvimento Guiado por Testes
+
 -Bibliotecas como Mocha e Chai.
 
 ## Programas e linguagens utilizadas:
