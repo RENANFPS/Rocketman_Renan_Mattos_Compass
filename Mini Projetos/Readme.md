@@ -73,4 +73,6 @@ Inicialmente precisaremos de dois programas:
  - Criar um array de objetos de faixa de preço para que possa ser usado em um site igual o mercado livre.
 
 
+//fim
+
 

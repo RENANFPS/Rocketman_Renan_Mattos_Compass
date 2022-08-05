@@ -26,3 +26,5 @@ for ( i=0; i <= limite; i++){
 }
 console.log (multiplosDe3 + multiplosDe5)
 }
+
+//fim

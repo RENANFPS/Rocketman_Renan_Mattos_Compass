@@ -18,3 +18,5 @@ function exibirAsteriscos(linhas){
         console.log(padrao);
     }
 }
+
+//fim

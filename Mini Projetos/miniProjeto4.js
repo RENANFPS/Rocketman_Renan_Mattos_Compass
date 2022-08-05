@@ -20,3 +20,5 @@ function verificarVelocidade(velocidade){
 
     }
 }
+
+//fim

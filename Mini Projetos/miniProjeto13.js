@@ -11,3 +11,5 @@ let postagem ={
 }
 
 console.log(postagem);
+
+//fim

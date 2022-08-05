@@ -25,3 +25,5 @@ let faixas2 = [
 ]
 console.log(faixas);
 console.log(faixas2);
+
+//fim

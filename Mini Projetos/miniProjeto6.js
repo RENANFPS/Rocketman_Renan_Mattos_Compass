@@ -14,3 +14,5 @@ function exibirPropriedades(obj){
     if (typeof obj[prop] === 'string')
         console.log(prop, obj[prop])
 }
+
+//fim

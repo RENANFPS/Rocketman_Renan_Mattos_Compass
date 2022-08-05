@@ -20,3 +20,6 @@ function exibirNumerosprimos(limite){
          if (ehprimo) console.log(numero);
 }
 }
+
+
+//fim

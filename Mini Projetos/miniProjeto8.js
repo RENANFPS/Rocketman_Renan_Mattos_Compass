@@ -25,3 +25,5 @@ function mediaDoAluno(notas) {
 
 }
 
+//fim
+
