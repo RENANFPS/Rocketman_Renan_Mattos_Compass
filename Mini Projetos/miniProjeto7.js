@@ -1,4 +1,4 @@
-// Criar função somar que retora a
+// Criar função somar que retorna a
 // soma de todos os múltiplos de 3 e 5
 
 //Multiplos de 3
