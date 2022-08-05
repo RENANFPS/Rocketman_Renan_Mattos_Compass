@@ -20,11 +20,11 @@ O objetivo dele é servir para avaliação nos estudos da compass.uol .
 
 -KOANS JS 
 
-- Aprendizado sobre refatoração de testes automatizados.
+-Aprendizado sobre refatoração de testes automatizados.
 
 -TDD 
 
-- Test Driven Development ou Desenvolvimento Guiado por Testes
+-Test Driven Development ou Desenvolvimento Guiado por Testes
 
 -Bibliotecas como Mocha e Chai.
 
